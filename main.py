@@ -32,7 +32,7 @@ def main():
         }
         </style>
         <div class="main-container">
-            <h1>LinkedIn Post Generator</h1>
+            <h1>LinkWrite<h1>
         </div>
         """,
         unsafe_allow_html=True,
